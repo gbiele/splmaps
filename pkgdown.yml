@@ -1,0 +1,14 @@
+pandoc: '2.13'
+pkgdown: 2.0.2
+pkgdown_sha: ~
+articles:
+  customization: customization.html
+  layout: layout.html
+  naming_scheme: naming_scheme.html
+  sf_interactive: sf_interactive.html
+  splmaps: splmaps.html
+last_built: 2022-06-14T15:03Z
+urls:
+  reference: https://docs.sykdomspulsen.no/splmaps/reference
+  article: https://docs.sykdomspulsen.no/splmaps/articles
+
